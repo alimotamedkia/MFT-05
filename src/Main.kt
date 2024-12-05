@@ -1,5 +1,5 @@
 fun main() {
-//    findMax()
+    findMax()
 check()
 }
 
